@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: cadetblue;
+}
+
+.container {
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 215px;
+}
+
+.container img {
+    border-radius: 4px;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 200px;
+    height: 50%;
+    position: relative;
+}
+
+.container h3 {
+    bottom: -3rem;
+    text-align: center;
+}
+
+.container p {
+    bottom: -8rem;
+    text-align: center;
+    color: gray;
+}
+
+.attribution { font-size: 11px; text-align: center;
+}
+
+.attribution a { color: hsl(228, 45%, 44%);
+}
